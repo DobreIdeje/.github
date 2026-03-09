@@ -14,7 +14,7 @@
 - Per "pub" menu
 - QR code access
 - "Pub" can add/remove items to menu
-- People rate items from menu
+- People rate items from menu (login - via google/socials)
 - Order to table
 - Loyalty bonuses per pub
 - Location of pub on menu
